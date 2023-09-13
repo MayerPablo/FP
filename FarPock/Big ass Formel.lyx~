@@ -93,7 +93,7 @@
 \begin_layout Standard
 \begin_inset Formula 
 \[
-H\left(z\right)=\frac{IN}{2L(r_{2}-r_{1})}\left[\left(L-z\right)\cdot ln\frac{r_{2}+\sqrt{\left(L-z\right)^{2}+r_{2}^{2}}}{r_{1}+\sqrt{\left(L-z\right)^{2}+r_{1}^{2}}}+z\cdot ln\frac{r_{2}+\sqrt{z^{2}+r_{2}^{2}}}{r_{1}+\sqrt{z^{2}+r_{1}^{2}}}\right]
+H\left(z\right)=\frac{IN}{2L(r_{2}-r_{1})}\left[\left(\frac{L}{2}-z\right)\cdot ln\frac{r_{2}+\sqrt{\left(\frac{L}{2}-z\right)^{2}+r_{2}^{2}}}{r_{1}+\sqrt{\left(\frac{L}{2}-z\right)^{2}+r_{1}^{2}}}+\left(\frac{L}{2}+z\right)\cdot ln\frac{r_{2}+\sqrt{\left(\frac{L}{2}+z\right)^{2}+r_{2}^{2}}}{r_{1}+\sqrt{\left(\frac{L}{2}+z\right)^{2}+r_{1}^{2}}}\right]
 \]
 
 \end_inset

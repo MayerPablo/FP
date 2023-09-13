@@ -99,6 +99,47 @@ H\left(z\right)=\frac{IN}{2L(r_{2}-r_{1})}\left[\left(L-z\right)\cdot ln\frac{r_
 \end_inset
 
 
+\begin_inset Newline linebreak
+\end_inset
+
+
+\begin_inset Formula 
+\[
+\epsilon=\frac{\partial D}{\partial E}=a+2bE+3cE^{2}+...
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+r_{41}=\frac{\lambda d}{4lU_{\lambda/2}}\sqrt{\frac{1}{2}\left(\frac{1}{n_{1}^{2}}+\frac{1}{n_{3}^{2}}\right)}^{3}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\begin{align*}
+V_{\text{d}} & =\frac{m_{\text{d}}}{\int_{\frac{L-\ell}{2}}^{\frac{L+\ell}{2}}H_{\text{akk}}(z)dz}\\
+ & =\frac{\SI{2.578(4)}{\frac{\degree}{\ampere}}}{2554.8}\\
+ & =\SI{1.009(14)}{\times10^{-3}\frac{\degree}{\ampere}}\\
+ & =\SI{4.82(7)}{\frac{\text{arcmin}}{\text{Oe}}}\\
+V_{\text{h}} & =\frac{m_{h}}{\int_{\frac{L-\ell}{2}}^{\frac{L+\ell}{2}}H_{\text{akk}}(z)dz}\\
+ & =\frac{\SI{2.578(4)}{\frac{\degree}{\ampere}}}{2554.8}\\
+ & =\SI{1.35(11)}{\times10^{-3}\frac{\degree}{\ampere}}\\
+ & =\SI{6.46(5)}{\frac{\text{arcmin}}{\text{Oe}}}
+\end{align*}
+
+\end_inset
+
+
 \end_layout
 
 \end_body
