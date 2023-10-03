@@ -1,20 +1,3 @@
-SpectraSuite Datei
-++++++++++++++++++++++++++++++++++++
-Datum: Tue Sep 26 15:20:10 CEST 2023
-Benutzer: Leiter
-Dark-Spektrum vorhanden: Nein
-Referenz-Spektrum vorhanden: Nein
-Zahl der probierten Teilspektren: 1
-Spektrometer: USB2+H15728
-Integrationszeit (usec): 45000 (USB2+H15728)
-Spektren Durchschnitt berechnet: 20 (USB2+H15728)
-Boxcar Glättung: 0 (USB2+H15728)
-Dunkelstromkorrektur: Nein (USB2+H15728)
-Puls/Lampe aktiviert: Nein (USB2+H15728)
-Correct for Detector Non-linearity: Nein (USB2+H15728)
-Streulichtkorrektur: Nein (USB2+H15728)
-Anzahl Pixel in verarbeitetem Spektrum: 2048
->>>>>Begin Processed Spectral Data<<<<<
 0,00	899,12
 1,00	899,12
 2,00	899,12
@@ -2063,4 +2046,3 @@ Anzahl Pixel in verarbeitetem Spektrum: 2048
 2045,00	6680,59
 2046,00	6680,59
 2047,00	6680,59
->>>>>End Processed Spectral Data<<<<<
